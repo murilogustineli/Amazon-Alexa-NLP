@@ -1,5 +1,5 @@
 Instructions
-Follow the next instructions if you would like to download and run the program at your own computer.
+Follow the next instructions if you would like to download and run the program on your own computer.
 1. Installing
 • The code and the dataset for this project can be found at my GitHub page github.com/murilogustineli
 • The dataset can also be found at kaggle.com/sid321axn/amazon-alexa-reviews 
